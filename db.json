@@ -81,7 +81,7 @@
       "id": 8
     },
     {
-      "titulo": "asaas",
+      "titulo": "Heri BRabo",
       "urlFoto": "",
       "dtLancamento": "2020-09-09T03:00:00.000Z",
       "descricao": "",
@@ -89,16 +89,6 @@
       "urlIMDB": "",
       "genero": "Terror",
       "id": 9
-    },
-    {
-      "titulo": "sdsd",
-      "urlFoto": "",
-      "dtLancamento": "2020-09-02T03:00:00.000Z",
-      "descricao": "",
-      "nota": 0,
-      "urlIMDB": "",
-      "genero": "Terror",
-      "id": 10
     },
     {
       "titulo": "gfg",
@@ -109,16 +99,6 @@
       "urlIMDB": "",
       "genero": "Terror",
       "id": 11
-    },
-    {
-      "titulo": "asa",
-      "urlFoto": "",
-      "dtLancamento": "2020-09-01T03:00:00.000Z",
-      "descricao": "efefe\nfef\ns\nds\nds\n",
-      "nota": 0,
-      "urlIMDB": "",
-      "genero": "Romance",
-      "id": 12
     }
   ]
 }
